@@ -1,4 +1,4 @@
----
+--- #test auto trigger
 platform: linux
 
 image_resource:
